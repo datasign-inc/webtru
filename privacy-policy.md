@@ -27,12 +27,16 @@
 
 本サービスでは、業務運営の効率化を目的として、必要に応じてクラウドサービスを利用しています。個人情報の取り扱いに関して、現在利用しているクラウドサービスは以下の通りです。
 
-| クラウドサービス名 | 提供会社名 | 利用目的 | サービスURL |
----- | ---- | ---- | ----
-| AmazonWebService | Amazon Web Services, Inc. | 本サービスのホスティング | https://aws.amazon.com/ |
-| SendGrid | 株式会社構造計画研究所| マーケティングメールを希望される方のメールアドレスの管理・メールの送信 | https://sendgrid.kke.co.jp/ |
-| Stripe | Stripe, Inc. | クレジットカード決済サービスの利用 | https://stripe.com/ |
-| Hubspot| HubSpot, Inc. | 氏名、会社名、メールアドレス・行動履歴等の管理・メールの送信 | https://www.hubspot.jp/ |
+| クラウドサービス名 | 提供者<br>（所在地） | 利用目的 | 個人情報保護について |
+| ---- | ---- | ---- | ---- |
+| [AmazonWebService](https://aws.amazon.com/) | Amazon Web Services, Inc.<br>（アメリカ・ワシントン州） | 本サービスのホスティング | [日本のデータプライバシー](https://aws.amazon.com/jp/compliance/japan-data-privacy/) |
+| [SendGrid](https://sendgrid.com/) | Twilio Inc.<br>（アメリカ・カリフォルニア州） | マーケティングメールを希望される方のメールアドレスの管理・メールの送信 | [プライバシーポリシー](https://www.twilio.com/ja/legal/privacy) |
+| [Stripe](https://stripe.com/) | Stripe, Inc.<br>（アメリカ・カリフォルニア州） | クレジットカード決済サービスの利用 | [プライバシーポリシー](https://stripe.com/jp/privacy) |
+| [HubSpot](https://www.hubspot.jp/) | HubSpot, Inc.<br>（アメリカ・マサチューセッツ州） | 氏名、会社名、メールアドレス・行動履歴等の管理・メールの送信 | [プライバシーポリシー](https://legal.hubspot.com/jp/privacy-policy) |
+
+当該外国における個人情報の保護に関する制度に関しては、個人情報保護委員会が公表する外国における個人情報の保護に関する制度等の調査についての情報をご確認ください。
+* [アメリカ（連邦）](https://www.ppc.go.jp/files/pdf/USA_report.pdf)
+* [アメリカ（カリフォルニア州）](https://www.ppc.go.jp/files/pdf/california_report.pdf)
 
 ### 3.個人情報の開示・訂正等について
 
