@@ -33,6 +33,7 @@ webtru プライバシーポリシー
 | [SendGrid](https://sendgrid.com/) | Twilio Inc.<br>（アメリカ・カリフォルニア州） | マーケティングメールを希望される方のメールアドレスの管理・メールの送信 | [プライバシーポリシー](https://www.twilio.com/ja/legal/privacy) |
 | [Stripe](https://stripe.com/) | Stripe, Inc.<br>（アメリカ・カリフォルニア州） | クレジットカード決済サービスの利用 | [プライバシーポリシー](https://stripe.com/jp/privacy) |
 | [HubSpot](https://www.hubspot.jp/) | HubSpot, Inc.<br>（アメリカ・マサチューセッツ州） | 氏名、会社名、メールアドレス・行動履歴等の管理・メールの送信 | [プライバシーポリシー](https://legal.hubspot.com/jp/privacy-policy) |
+| [Algolia](https://www.algolia.com/) | Algolia, Inc.<br>（アメリカ・カリフォルニア州） | ウェブサイトのコンテンツ検索のため | [プライバシーポリシー](https://www.algolia.com/policies/privacy/) |
 
 当該外国における個人情報の保護に関する制度に関しては、個人情報保護委員会が公表する外国における個人情報の保護に関する制度等の調査についての情報をご確認ください。
 * [アメリカ（連邦）](https://www.ppc.go.jp/files/pdf/USA_report.pdf)
